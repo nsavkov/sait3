@@ -1,0 +1,53 @@
+nav a{
+    background-color: darkblue;
+    padding: 8px 16px;
+    color: white;
+    border-radius: 6px;
+    text-decoration: none;
+    margin: 0px 10px; 
+}
+.pubg{
+    background-color: transparent;
+    color: darkblue;
+    border: 2px solid darkblue;
+}
+h1{
+    color: darkblue;
+    border-bottom: 5px dashed darkblue;
+
+}
+footer{
+    background-color: darkblue;
+    padding: 10px 10px;
+}
+footer p{
+    background-color: white;
+    color: darkblue;
+    padding: 10px 20px;
+    margin: 10px 20px;
+}
+main img{
+    width: 250px;
+    border: 6px double darkblue; 
+    margin: 10px;
+}
+h2{
+    color: darkblue;
+}
+main p {
+    border: 4px dotted darkblue;
+    padding: 20px ;
+    border-radius: 20px;
+}
+table {
+    background-color:blue;
+    border: 3px solid darkblue;
+    color: white;
+}
+td{
+    border: 3px solid darkblue;
+    text-align: center;
+}
+p{
+    font-size: 20px;
+}
